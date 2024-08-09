@@ -1,0 +1,21 @@
+header{
+img {
+    width: 100px;
+    border-radius: 70px;
+    float: right;
+    margin-right: 100px;
+  }
+}
+
+main{
+ img {
+    width: 190px;
+    border-radius: 10px;
+    float: left;
+    margin-right: 100px;
+ }
+}
+
+footer{
+    text-align:center ;
+}
